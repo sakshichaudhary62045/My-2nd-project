@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+}
+
+h1{
+    background-color: rgb(9, 9, 141);
+color: white;
+text-align: center;
+}
+
+
+nav{
+    background-color: rgb(7, 7, 95);
+    margin-bottom: 50px;
+}
+
+
+nav a {
+  
+ text-align: center;
+text-decoration: none;
+color: white;
+
+
+}
+ 
+
+nav ul li{
+    margin: 15px;
+}
+
+nav ul{
+    list-style: none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  
+}
+
+main {
+    text-align: center;
+    margin-top: 50px;
+    font-size: larger;
+    margin-bottom: 50px;
+    height: 50px;
+}
+  div{
+    text-align: center;
+    margin-top: 20px;
+    p{
+        color:white;
+    margin-top: 20px;
+    }
+  }
+  div{
+    background-color:rgb(43, 43, 121);
+  }
+  body{
+    background-color: rgb(245, 239, 250);
+  }
+
+
+ 
+
